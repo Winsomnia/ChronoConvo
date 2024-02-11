@@ -1,0 +1,6 @@
+2024-02-11 04:38:48.591 xcodebuild[51255:1433018] Writing error result bundle to /var/folders/55/djzl11ds6ss99p7tk6t65hyh0000gn/T/ResultBundle_2024-11-02_04-38-0048.xcresult
+xcodebuild: error: Unable to find a destination matching the provided destination specifier:
+		{ id:8CA6716D-75A5-4BB3-B9E0-61EA7A3E6960 }
+
+	Ineligible destinations for the "HistFigApp" scheme:
+		{ platform:iOS, id:dvtdevice-DVTiPhonePlaceholder-iphoneos:placeholder, name:Any iOS Device, error:iOS 17.2 is not installed. To use with Xcode, first download and install the platform }

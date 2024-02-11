@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiKey = "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"; // Replace with your actual API key
+const apiKey = ""; // Replace with your actual API key
 
 const Dalle2Model = "dall-e-2";
 const Dalle3Model = "dall-e-3";
