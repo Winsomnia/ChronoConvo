@@ -1,6 +1,0 @@
-Command line invocation:
-    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace "/Users/willesommer/Documents/LocalProgramming/React Native/HistFigProj/React/HistFigApp/ios/HistFigApp.xcworkspace" -configuration Debug -scheme HistFigApp -destination id=8CA6716D-75A5-4BB3-B9E0-61EA7A3E6960
-
-User defaults from command line:
-    IDEPackageSupportUseBuiltinSCM = YES
-
