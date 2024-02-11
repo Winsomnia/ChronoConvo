@@ -34,6 +34,7 @@ Therefore, the easiest way to try out this app yourself, is to download the sour
 - open the file OpenAITextGen.js, and paste your personal OpenAI API key within the string defined as "const apikey = ''"
 - cd to the "HistFigApp"
 - run "npm install" to install all dependencies (make sure to have the latest version of node.js and npm installed on your pc)
+- run "npm install -g expo-cli" (if you dont have expo already)
 - run "npx expo start --no-dev --minify"
 - scan QR code with expo go app
 - have fun
